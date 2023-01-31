@@ -1,13 +1,29 @@
 Application: JavaScript Drum Kit
 
-How to install: 
-  Click the Green "Code" Button On the Page: https://github.com/BT-H/BT-H.drumkit.github.io
-  Click on "Download Zip" at bottome of drop down menu. 
-  Once the File is Downloaded Unzip the File. 
-  Open the drumKit-main Folder and Click on index.html to Open the Application.
-  
-How to use:
-  Create Your Own Music Using the Letters Shown on the Page. 
-  
+Why? This project explores: how a to link simple .wav sounds to keyboard actions, manipulating sound duration. 
+
+How to use? Clone this repository to your local system and open the index.html file. 
+
+What's coming? Add rows for additional instrument sounds of bass guitar and lead guitar.  
+
+Copyright (c) 2023 Brian Hansen
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
   
